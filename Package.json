@@ -1,0 +1,6 @@
+{
+  "name": "search-proxy",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "*", "cors": "*" }
+}
